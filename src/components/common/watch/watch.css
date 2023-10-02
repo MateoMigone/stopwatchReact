@@ -1,0 +1,19 @@
+.watch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  font-size: 3rem;
+  background-color: rgb(200, 199, 199);
+  box-shadow: 0 0 10px 0 rgb(20, 20, 20);
+  border-radius: 20px;
+  padding: 2rem;
+  width: 350px;
+}
+
+.ms {
+  font-size: 1.2rem;
+  align-self: start;
+  padding-top: 1.5rem;
+  padding-left: 0.5rem;
+}

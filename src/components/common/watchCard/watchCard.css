@@ -1,0 +1,17 @@
+.card {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(67, 67, 67);
+  box-shadow: 0 0 10px 0 rgba(200, 200, 200, 0.475);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+}
+
+.btns-container {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,10 @@
+header {
+  background-color: rgb(200, 199, 199);
+  padding: 30px;
+  font-size: 2rem;
+  box-shadow: 0 0 20px 0 rgb(200, 199, 199);
+}
+
+header h1 {
+  margin-left: 150px;
+}
